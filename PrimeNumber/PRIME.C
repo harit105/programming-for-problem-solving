@@ -1,3 +1,7 @@
+/*
+Program to evaluate if a number is prime or not. 
+*/
+
 #include<stdio.h>
 #include<conio.h>
 void main()
