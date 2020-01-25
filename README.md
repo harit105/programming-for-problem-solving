@@ -1,2 +1,3 @@
 # programming-for-problem-solving
-code for problems in assignments
+Code for problems in assignments
+The assignment is for the class GCET Programming for problem solving. 
